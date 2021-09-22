@@ -10,7 +10,7 @@ Can be found on telegram as [MetaButler](https://t.me/MetaButlerBot).
 
 The Support group can be reached out to at [MetaButler](https://t.me/MetaButler), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abijithkutty/MetaButler)
 
 ## Setting up the bot (Read this before trying to use!):
 
@@ -85,8 +85,8 @@ repeat for your username, password, hostname(localhost?), port(5432?), and db na
 
 ## Credits
 The bot is based of on the original work done by
- - [PaulSonOfLars](https://github.com/PaulSonOfLars)
+ - [REX_BOTZ](https://t.me/REX_BOTZ)
 # Thanks to
- - [Dank-del](https://github.com/Dank-del)
- - [SoapDev](https://github.com/SoapDev2018)
+ - [Abijithkutty](https://github.com/Abijithkutty)
+ - [DareAbijth](https://t.me/DareAbijth)
  - And many more that we couldn't list it here!
